@@ -59,6 +59,27 @@
         eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor
         diam fringilla tellus, eu euismod mauris neque at neque.
     </string>
+    <string name="basketball_list_subtitle">Bola basket (bahasa Inggris: basketball) adalah olahraga bola berkelompok yang terdiri atas dua tim.</string>
+    <string name="basketball_detail_text">
+        Bola basket (bahasa Inggris: basketball) adalah olahraga bola berkelompok yang terdiri atas
+        dua tim beranggotakan masing-masing lima orang yang saling bertanding mencetak poin dengan
+        memasukkan bola ke dalam keranjang lawan. Bola basket dapat di lapangan terbuka, walaupun
+        pertandingan profesional pada umumnya dilakukan di ruang tertutup. Lapangan pertandingan yang
+        diperlukan juga relatif tidak besar, misal dibandingkan dengan sepak bola. Selain itu,
+        permainan bola basket juga lebih kompetitif karena tempo permainan cenderung lebih cepat jika
+        dibandingkan dengan olahraga bola yang lain, seperti voli dan sepak bola.
+        \n\n
+        Bola basket menjadi salah satu olahraga yang paling digemari oleh penduduk Amerika Serikat
+        dan penduduk di belahan bumi lainnya, antara lain di Amerika Selatan, Eropa Selatan,
+        Lithuania, dan juga di Indonesia. Banyak kompetisi bola basket yang diselenggarakan setiap
+        tahun, seperti British Basketball League (BBL) di Inggris, National Basketball Association
+        (NBA) di Amerika, dan Indonesia Basketball League (IBL) di Indonesia. Bola basket
+        merupakan salah satu cabang olahraga yang menuntut VO2 max tinggi. Dengan latihan VO2 max ini
+        dapat ditingkatkan yang menghasilkan peningkatan hanya berkisar 25% dari kondisi awal latihan.
+        Dari latihan tersebut elebihnya ditentukan oleh potensi fisik yang ada pada setiap individu.
+        Bola basket merupakan cabang olahraga dengan waktu istirahat yang lebih lama, sehingga dapat
+        memanfaatkan teknik recovery dengan tepat.
+    </string>
 
     <plurals name="player_count_caption">
         <item quantity="one">1 Player</item>

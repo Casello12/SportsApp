@@ -50,12 +50,12 @@ object LocalSportsDataProvider{
             Sport(
                 id = 3,
                 titleResourceId = R.string.basketball,
-                subtitleResourceId = R.string.sports_list_subtitle,
+                subtitleResourceId = R.string.basketball_list_subtitle,
                 playerCount = 5,
                 olympic = true,
                 imageResourceId = R.drawable.ic_basketball_square,
                 sportsImageBanner = R.drawable.ic_basketball_banner,
-                sportDetails = R.string.sport_detail_text
+                sportDetails = R.string.basketball_detail_text
             ),
             Sport(
                 id = 4,
